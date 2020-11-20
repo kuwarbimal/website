@@ -1,13 +1,13 @@
 ---
-title: "Fall 2020 classes"
+title: "Spring 2021 classes"
 ---
 
-# College Algebra (MATH-1100-GH2 CRN: 10153)
+# College Algebra (MATH-1100)
 
 
-## Welcome to Math 1100 GH2
+## Welcome to Math 1100 
 ## College Algebra Online
-## Fall 2020
+## Spring 2021
 ## Instructor: Bimal Kunwor
 
-[Formula sheet](./Math 1100 (Online) Exam Formulas.docx)
+[Formula sheet](./files/Math 1100 (Online) Exam Formulas.docx)
