@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Spring 2021 classes"
 ---
 

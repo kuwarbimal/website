@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+logo: static/logo.jpg
+title: Bimal Kunwor
+description: I am Bimal Kunwor, currently teaching at River Parishes Community College. I have Masters in Mathematics degree from Lousiana State Univeristy. My research interests include Machine Learning, Number Theory and Matrix Analysis.
+google_analytics: G-4QJFXV52Y7
+github:
+  is_project_page: false
+  is_user_page: true
+  owner_uri: https://github.com/kuwarbimal/
+
