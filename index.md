@@ -20,3 +20,12 @@ B.Sc Mathematics,Outstanding Graduate, Southeastern Louisiana University, Louisi
 [Classes](./classes)
 
 [Publications](./publications)
+
+[Links/Channels](./links)
+
+[LSU Math Competition Solutions](./lsumathcompetition)
+
+
+
+## Why Machine Learning ?
+A stock-broker knows when to buy or sell his stocks based on his experience in the past. Netflix recommends you the move lists based on the movies you watched. Using machines to learn these types of experiences to perfrom some task is called Machine Learning.
