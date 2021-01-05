@@ -10,4 +10,5 @@ title: "Spring 2021 Trigonometry"
 ## Spring 2021
 ## Instructor: Bimal Kunwor
 
-[Formula sheet](./files/Math 1100 (Online) Exam Formulas.pdf)
+[Formula sheet](./files/Math 1100 (Online) Exam Formulas.pdf)\\
+[Trigonometric Formula Sheet](./files/trigformulas.pdf)

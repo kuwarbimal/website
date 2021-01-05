@@ -29,4 +29,4 @@ B.Sc Mathematics,Outstanding Graduate, Southeastern Louisiana University, Louisi
 
 ## Why Machine Learning ?
 Machine Learning is used in many key fields in industries. For example: In healthcare industry, Machine Learning is used to predict whether human cell believed to be at risk of developing a cancer is begnin or malignant. As such, Machine Learning plays a key role in determining a person's health and welfare. \\
-A stock-broker knows when to buy or sell his stocks based on his experience in the past. Netflix recommends you the move lists based on the movies you watched. Using machines to learn these types of experiences to perfrom some task is called Machine Learning.
+A stock-broker knows when to buy or sell his stocks based on his experience in the past. Netflix recommends you the move lists based on the movies you watched. Building models using hypothesis from oberseved data by training, testing and validating and then using models to predicit the future values is Machine Learning.
