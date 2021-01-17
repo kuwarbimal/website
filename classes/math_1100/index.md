@@ -14,4 +14,7 @@ title: "Spring 2021 classes"
 [Formula sheet](./files/Math 1100 (Online) Exam Formulas.pdf)\\
 [Algebra Formula Sheet](./files/algebraformulas.pdf)\\
 [2.1 Rectangular Co-ordinate System](./files/2.1-RectangularCoordinateSystem.pdf)\\
-[2.2 Linear Equations in one varibale](./files/2.2-Linear Equations in one Variable.pdf)
+[2.2 Linear Equations in one varibale](./files/2.2-Linear Equations in one Variable.pdf)\\
+[4.1 Introduction to Linear Functions](./files/4.1Introduction to Linear Functions.pdf)\\
+[4.2 Building Linear Models](./files/4.2 Building Linear Models.pdf)\\
+[5.2-5.3 Polynomial Functions, Power Functions and their Graphs](./files/5.2-5.3 Polynomials, Power Functions and their Graphs.pdf)
