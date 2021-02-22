@@ -19,6 +19,7 @@ title: "Spring 2021 classes"
 [2.6 Other Types of Equations](./files/2.6-Other Types of Equations.pdf)\\
 [2.7 Solving Linear Inequalities in One variable](./files/2.7 LinearInequalitiesAbsoluteValueInequalities.pdf)\\
 [3.1-3.2 Function and its Notations](./files/3.1 Function and its Notation.pdf)\\
+[3.3 Rates of Chanage](./files/3.3RatesofChange.pdf)\\
 [4.1 Introduction to Linear Functions](./files/4.1Introduction to Linear Functions.pdf)\\
 [4.2 Building Linear Models](./files/4.2 Building Linear Models.pdf)\\
 [5.1 Quadratic function](./files/5.1 Quadratic function.pdf)\\
