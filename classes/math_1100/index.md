@@ -8,7 +8,7 @@ title: "Spring 2021 classes"
 
 ## Welcome to Math 1100 
 ## College Algebra Online
-## Fall 2021
+## Fall 2022
 ## Instructor: Bimal Kunwor
 
 [Formula sheet](./files/Math 1100 (Online) Exam Formulas.pdf)\\
