@@ -8,5 +8,5 @@ title: "Spring 2022 classes"
 
 ## Welcome to Math 2010 
 ## Business Calculus Online
-## Spring 2021
+## Spring 2022
 ## Instructor: Bimal Kunwor
