@@ -10,3 +10,6 @@ title: "Spring 2021 classes"
 ## Introductory Business Statistics
 ## Fall 2022
 ## Instructor: Bimal Kunwor
+
+
+[Descriptive Satat](./files/Descriptive Statistics – Jaglia 2020.pptx)\\
