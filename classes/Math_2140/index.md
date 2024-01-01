@@ -8,7 +8,7 @@ title: "Spring 2021 classes"
 
 ## Welcome to Math 2140
 ## Introductory Business Statistics
-## Fall 2022
+## Semester: 
 ## Instructor: Bimal Kunwor
 
 
